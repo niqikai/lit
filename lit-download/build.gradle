@@ -1,0 +1,6 @@
+archivesBaseName = "lit-download"
+
+dependencies {
+    compile project(':lit-support')
+    compile spring_webmvc
+}

@@ -4,4 +4,5 @@ include 'lit-support'
 include 'lit-starters'
 include 'lit-starters:lit-starter-jdbc'
 findProject(':lit-starters:lit-starter-jdbc')?.name = 'lit-starter-jdbc'
+include 'lit-download'
 
